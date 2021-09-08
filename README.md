@@ -1,0 +1,1 @@
+# Crime-pattern-mining-using-Association-rule-mining
